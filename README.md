@@ -13,7 +13,7 @@ while(1) {
 
   home:
   think_about_what_could_i_code();
-  realize_that_university_have_alredy_given_you_math_todo();
+  realize_that_university_have_alredy_given_me_math_todo();
   do_math(); // :(
   sleep();
 }
